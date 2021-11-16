@@ -1,0 +1,10 @@
+vue create 프로젝트로 프로젝트 생성시
+In dedicated config files 설정시 생성 되는 파일들
+
+- .browserslistrc
+- .eslintrc.js
+- babel.config.js
+- jest.config.js
+
+
+

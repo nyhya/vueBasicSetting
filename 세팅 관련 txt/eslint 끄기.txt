@@ -1,0 +1,10 @@
+vue.config.js 을 src 폴더에 만들고
+
+module.exports = {
+ lintOnSave:false
+}
+
+값을 넣어줌 
+
+
+ lintOnSave : false
